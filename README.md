@@ -1,6 +1,6 @@
 # prosthetics_orthotics_email
 
-See the original aopa file at <sup>the2017report.html</sup>
+See the original aopa file at <sub>the2017report.html</sub>
 <br/>
 <br/>
 the **output.xlsx** is an Excel spreadsheet on clinics in 47 US states, containing organization name, website, emails, addresses, and CPO/owner infos
